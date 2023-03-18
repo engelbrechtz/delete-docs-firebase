@@ -1,7 +1,7 @@
 const firebase = require('firebase-admin');
 
 firebase.initializeApp({
-  credential: firebase.credential.cert('wait-list-66f15-firebase-adminsdk.json'),
+  credential: firebase.credential.cert(''),
 });
 
 
